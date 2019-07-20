@@ -1,0 +1,7 @@
+name: Rainboots
+version: 0.0.1
+main: net.excham.rainboots.Rainboots
+commands:
+  rainboots:
+    description: Give me rainboots!!
+    usage: /rainboots
