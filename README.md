@@ -3,4 +3,4 @@
 ---
 i made the gay converse shoes, but in minecraft. also super buffed.
 
-![example](https://i.imgur.com/tnFzVzQ.gif)
+[here's a gif of it in action](https://i.imgur.com/tnFzVzQ.gif). unfortunetly, it's too large for github.
